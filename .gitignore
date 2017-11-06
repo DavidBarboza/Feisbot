@@ -6,6 +6,8 @@
 *.dll
 *.so
 *.dylib
+#Certificates
+*.pem
 
 # Test binary, build with `go test -c`
 *.test
