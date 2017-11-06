@@ -7,7 +7,7 @@
 *.so
 *.dylib
 #Certificates
-*.pem
+/certificates
 
 # Test binary, build with `go test -c`
 *.test
