@@ -1,5 +1,6 @@
 {
   "port": ":443",
   "cert_pem": "./certificates/cert.pem",
-  "key_pem": "./certificates/key.pem"
+  "key_pem": "./certificates/key.pem",
+  "my_token": "my-secret-token"
 }
